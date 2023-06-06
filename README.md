@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning HTML, Tailwind CSS, PHP, Python, .NET, C#, ML and more
+📫 How to reach me: heaslay@gmail.com
 <!--
 **heaslay/heaslay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
